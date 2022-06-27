@@ -28,10 +28,10 @@ export class AppComponent {
     // this.subj.subscribe((data) => console.log(data));
     // this.subj.next(Math.random());
 
-    this.behav.next('toto2');
-    this.behav.subscribe((data) => console.log(data));
-    this.behav.next('toto3');
-    this.behav.next(Math.random());
-    this.behav.subscribe((data) => console.log(data));
+    // this.behav.next('toto2');
+    // this.behav.subscribe((data) => console.log(data));
+    // this.behav.next('toto3');
+    // this.behav.next(Math.random());
+    // this.behav.subscribe((data) => console.log(data));
   }
 }
