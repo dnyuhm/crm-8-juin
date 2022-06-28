@@ -11,12 +11,12 @@
       "id": 1
     },
     {
-      "tjmHt": 1200,
-      "nbJours": 10,
-      "tva": 20,
-      "state": "CANCELED",
       "typePresta": "formation",
       "client": "Modis",
+      "nbJours": 10,
+      "tjmHt": 1200,
+      "tva": 20,
+      "state": "CONFIRMED",
       "comment": "fgddhf",
       "id": 2
     },
@@ -31,13 +31,13 @@
       "id": 3
     },
     {
-      "tjmHt": 1200,
-      "nbJours": 12,
-      "tva": 20,
-      "state": "CONFIRMED",
       "typePresta": "formation",
       "client": "Capgemini",
-      "comment": "Merci capgemini pour les 14k",
+      "nbJours": 12,
+      "tjmHt": 1200,
+      "tva": 20,
+      "state": "CONFIRMED",
+      "comment": "Merci capgemini pour l'argent",
       "id": 4
     },
     {
@@ -49,16 +49,6 @@
       "client": "Modis",
       "comment": "Merci Modis pour les 10k",
       "id": 5
-    },
-    {
-      "typePresta": "toto",
-      "client": "toto",
-      "nbJours": 5,
-      "tjmHt": 500,
-      "tva": 10,
-      "state": "CONFIRMED",
-      "comment": "toto",
-      "id": 6
     }
   ],
   "clients": [
